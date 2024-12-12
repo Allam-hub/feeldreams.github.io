@@ -1,7 +1,1 @@
-<script>document.addEventListener("DOMContentLoaded", function () {
-    const audio = document.getElementById("linkmp3");
-    audio.play().catch(error => {
-        console.log("Autoplay diblokir oleh browser. Menunggu interaksi pengguna.");
-    });
-});
-</script>
+
